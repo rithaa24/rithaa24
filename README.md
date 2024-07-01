@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rithaa24
-- 👀 I’m interested in Robotic Process Automation, data science,artificial intelligence and machine learning
-- 🌱 I’m currently pusursuing b.tech 2nd year
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m haritha
+- 👀 I’m interested in data science,artificial intelligence and machine learning
+- 🌱 I’m currently pusursuing b.tech 2nd year ai&ds
+- 💞️ I’m looking to collaborate on more projects
 - 📫 How to reach me
 - reach me via linkedin
 
