@@ -1,6 +1,6 @@
 - 👋 Hi, I’m haritha
 - 👀 I’m interested in data science,artificial intelligence and machine learning
-- 🌱 I’m currently pusursuing b.tech 2nd year ai&ds
+- 🌱 I’m currently pusursuing b.tech 3d year ai&ds
 - 📫 How to reach me
 - reach me via linkedin
 
