@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Haritha and I'm an aspiring ML Engineer Intern at Zoho Corp and Ex-Intern at MNRE(NIC)</h2>
+<h2 align="left">Hi 👋! My name is Haritha and I'm an aspiring ML Engineer, Intern at Zoho Corp and Ex-Intern at MNRE(NIC)</h2>
 
 ###
 
