@@ -61,11 +61,14 @@
 
 <br clear="both">
 
-<hr>
-<h3 align="center">Spotify recently played songs</h3>
+---
+
+### <div align="center">Spotify recently played songs</div>
+
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p4uofdrxlw2wqvkx36twljgpyu" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p4uofdrxlw2wqvkx36twljgpyu" alt="Spotify Recently Played" width="400" />
 </div>
+
 
 <hr>
 
