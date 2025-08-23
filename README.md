@@ -66,7 +66,7 @@
 ### <div align="center">Spotify recently played songs</div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p4uofdrxlw2wqvkx36twljgpyu" alt="Spotify Recently Played" width="400" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?https://open.spotify.com/user/31p4uofdrxlw2wqvkx36twljgpyu?si=b75512e6cef64ab6" alt="Spotify Recently Played" width="400" />
 </div>
 
 
